@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: the use of `undefined`. The `bug.hs` file contains code that uses `undefined`, leading to a runtime error.  The `bugSolution.hs` file provides a corrected version.
